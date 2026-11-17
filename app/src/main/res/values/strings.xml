@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_service_description">仅在你点击悬浮控制器后模拟屏幕上滑；不读取屏幕内容、不收集数据。</string>
+</resources>
